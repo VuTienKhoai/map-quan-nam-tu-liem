@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Bệnh viện Đa khoa Hồng Ngọc - Phúc Trường Minh",
+    "lat": 21.010253794526793,
+    "lng": 105.76941644123364,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Bệnh viện Đặng Văn Ngữ",
+    "lat": 20.99255142194581,
+    "lng": 105.79351887391488,
+    "description": "Bệnh viên"
+  },
+  {
+    "name": "Bệnh viện Quốc tế DoLife",
+    "lat": 21.033481202396416,
+    "lng": 105.77160032352202,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Hệ thống Y Tế Sakura (BV Đa khoa Chữ Thập Xanh)",
+    "lat": 21.03165851933605,
+    "lng": 105.77400818119426,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Bệnh Viện Y Học Cổ Truyền Bộ Công An",
+    "lat": 20.99622999396469,
+    "lng": 105.78948282352067,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Bệnh Viện Thể Thao Việt Nam",
+    "lat": 21.023373562059426,
+    "lng": 105.76146414865168,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Răng Hàm Mặt Bệnh Viện Hồng Ngọc - Cơ Sở Phúc Trường Minh",
+    "lat": 21.009219524269486,
+    "lng": 105.76941187934044,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Bệnh Viện Đại Học Quốc Gia Hà Nội",
+    "lat": 20.9910650679308,
+    "lng": 105.79647772166747,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Trung tâm Y tế Nam Từ Liêm - Phòng khám đa khoa Cầu Diễn",
+    "lat": 21.038935698555736,
+    "lng": 105.76588399468608,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Phòng Khám Hữu Nghị Quốc Tế Hà Nội",
+    "lat": 21.00415902755957,
+    "lng": 105.74955015235714,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Phòng khám An Vui (Tai mũi họng-Nhi)",
+    "lat": 20.991683850171444,
+    "lng": 105.79295363515902,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Bệnh viện đa Khoa Y Học Cổ Truyền Hà Nội",
+    "lat": 21.034462482054245,
+    "lng": 105.77971685209795,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Bệnh Viện Đa Khoa Quốc tế Vinmec Smart City",
+    "lat": 21.007157532735096,
+    "lng": 105.7473920081764,
+    "description": "Bệnh viện"
+  },
+  {
+    "name": "Vincom Mega Mall Smart City",
+    "lat": 21.007194313969055,
+    "lng": 105.75454703296101,
+    "description": "Trung tâm thương mại"
+  },
+  {
+    "name": "Trung tâm thương mại The Garden",
+    "lat": 21.01545000632638,
+    "lng": 105.77771841002976,
+    "description": "Trung tâm thương mại"
+  },
+  {
+    "name": "Trung Tâm Thương Mại Trung Văn 1",
+    "lat": 20.995048178361284,
+    "lng": 105.78094312352061,
+    "description": "Trung tâm thương mại"
+  },
+  {
+    "name": "Tops Market The Garden",
+    "lat": 21.015527169339627,
+    "lng": 105.77793928304666,
+    "description": "Trung tâm thương mại"
+  }
+]

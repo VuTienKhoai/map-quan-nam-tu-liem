@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Trường THCS Phú Đô",
+    "lat": 21.01273490944507,
+    "lng": 105.77006426266831,
+    "description": "Trường tiểu học nổi tiếng ở Nam Từ Liêm."
+  },
+  {
+    "name": "Trường Đại học Công Nghệ Đông Á",
+    "lat": 21.04219454572455,
+    "lng": 105.742099587377,
+    "description": "Trường đại học"
+  },
+  {
+    "name": "Trường Đại học Hà Nội",
+    "lat": 20.989935658008676,
+    "lng": 105.79517832253525,
+    "description": "Trường đại học."
+  },
+  {
+    "name": "Trường Đại học Thăng Long",
+    "lat": 20.99399748085045,
+    "lng": 105.77409854720361,
+    "description": "Trường đại học"
+  }
+]

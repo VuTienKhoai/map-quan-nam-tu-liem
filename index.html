@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bản đồ Nam Từ Liêm</title>
+    <link rel="icon" href="image/logo_map.png" type="image/png" />
+    <!-- Thêm CSS của Leaflet -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <!-- Thêm CSS cho Locate Control -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.locatecontrol/dist/L.Control.Locate.min.css"
+    />
+    <!-- Thêm CSS cho Geocoder -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Thêm JavaScript của Leaflet -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Thêm JavaScript cho Locate Control -->
+    <script src="https://unpkg.com/leaflet.locatecontrol/dist/L.Control.Locate.min.js"></script>
+    <!-- Thêm JavaScript cho Geocoder -->
+    <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1 id="title_map">Bản đồ quận Nam Từ Liêm</h1>
+      <div id="map"></div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
